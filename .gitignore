@@ -126,10 +126,11 @@ cython_debug/
 .idea/
 
 # VSCode
-.vscode
 
 # System
 .DS_Store
 
 # Let's Encrypt (Traefik)
 letsencrypt/
+temp_auto_push.bat
+temp_interactive_push.bat
